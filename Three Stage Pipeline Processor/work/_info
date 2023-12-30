@@ -1,0 +1,366 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dC:/Users/hp/Desktop/Processor
+T_opt
+!s110 1698011104
+Vkmd2aGaQ0_NoY_kkiJ_DK1
+Z2 04 12 4 work tb_processor fast 0
+=1-48ba4e45768d-653597e0-60-4f94
+Z3 !s124 OEM100
+Z4 o-quiet -auto_acc_if_foreign -work work +acc
+Z5 tCvgOpt 0
+n@_opt
+Z6 OL;O;2021.1;73
+R1
+T_opt1
+!s110 1702999343
+V>^U0@ZV`_V:9k6IeGm`CL2
+R2
+=1-1062e56aa4b2-6581b52e-1b4-2014
+R3
+R4
+R5
+n@_opt1
+R6
+R1
+T_opt2
+!s110 1703954670
+VVV6CRkbSRfa87U4jPc^od0
+R2
+=1-b4b5b6da8837-659048ec-f4-2d34
+R3
+R4
+R5
+n@_opt2
+R6
+valu
+Z7 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z8 !s110 1703954659
+!i10b 1
+!s100 ZnzaeeTg<8MR@LLNDl4l[3
+IhZm_fY?N>1Za[Tcm98`<e1
+S1
+Z9 dC:/Users/talha/Desktop/7th Semester/Computer Architecure Lab/ThreeStagePipelineProcessor/Three Stage Pipeline Processor
+w1703954191
+8alu.sv
+Falu.sv
+!i122 137
+L0 1 40
+Z10 VDg1SIo80bB@j0V0VzS_@n1
+Z11 OL;L;2021.1;73
+r1
+!s85 0
+31
+Z12 !s108 1703954658.000000
+Z13 !s107 tb_processor.sv|reg_file.sv|Processor.sv|PC.sv|inst_mem.sv|inst_decode.sv|imm_gen.sv|data_mem.sv|controller.sv|Branch_comp.sv|alu.sv|
+Z14 !s90 alu.sv|Branch_comp.sv|controller.sv|data_mem.sv|imm_gen.sv|inst_decode.sv|inst_mem.sv|PC.sv|Processor.sv|reg_file.sv|tb_processor.sv|
+!i113 0
+Z15 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R5
+vBranch_comp
+R7
+R8
+!i10b 1
+!s100 JfWzTcRATUbT5XVR9O@>i1
+IAo:6<Y0IEA?8P?z=j_WMN2
+S1
+R9
+w1697999734
+8Branch_comp.sv
+FBranch_comp.sv
+!i122 137
+Z16 L0 1 28
+R10
+R11
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R15
+R5
+n@branch_comp
+vcontroller
+R7
+R8
+!i10b 1
+!s100 e[Z<BI?GilJKm64m>6S1N2
+IOz?_X:9FMVkoGlPiG7Qz=1
+S1
+R9
+w1703954432
+8controller.sv
+Fcontroller.sv
+!i122 137
+L0 1 284
+R10
+R11
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R15
+R5
+vdata_mem
+R7
+R8
+!i10b 1
+!s100 NK4RVjZ8AOfXKHNZ1jNSg0
+I5g:0T5]E<9^i4?OXDM<O^3
+S1
+R9
+w1703954470
+8data_mem.sv
+Fdata_mem.sv
+!i122 137
+L0 1 78
+R10
+R11
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R15
+R5
+vimm_gen
+R7
+R8
+!i10b 1
+!s100 =PTVR75BIZj3OABzCc[3F0
+I>KlPl3ofnU;i1mGX2hWW51
+S1
+R9
+w1698006928
+8imm_gen.sv
+Fimm_gen.sv
+!i122 137
+L0 1 34
+R10
+R11
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R15
+R5
+vinst_decode
+R7
+R8
+!i10b 1
+!s100 [EER[YSHE[HU[@:Pz_Q=91
+ID>]LOZg3TH^E_cNKHS>d`2
+S1
+R9
+w1696788380
+8inst_decode.sv
+Finst_decode.sv
+!i122 137
+L0 1 20
+R10
+R11
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R15
+R5
+vinst_mem
+R7
+R8
+!i10b 1
+!s100 bi<nhoV`AYWHAdSj181Ko1
+IUb;?>zW@?EA:MkiNI0k1W2
+S1
+R9
+w1696788716
+8inst_mem.sv
+Finst_mem.sv
+!i122 137
+L0 1 12
+R10
+R11
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R15
+R5
+vPC
+R7
+R8
+!i10b 1
+!s100 h>OLC]e4`KGTDi:8KC80j2
+I1=i1CZcCcXao7QK@g_D[H0
+S1
+R9
+w1703954517
+8PC.sv
+FPC.sv
+!i122 137
+L0 1 21
+R10
+R11
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R15
+R5
+n@p@c
+vProcessor
+R7
+R8
+!i10b 1
+!s100 YGfE`PV2Im8Ln1GoMh_2L2
+IH=ZZNQzaS<9Io8CGobmbQ0
+S1
+R9
+w1703954569
+8Processor.sv
+FProcessor.sv
+!i122 137
+L0 1 230
+R10
+R11
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R15
+R5
+n@processor
+vreg_file
+R7
+R8
+!i10b 1
+!s100 Y0N=OH6JVIUMMejIf?i7A0
+I[C@AoHbl[[0bk;4HE2HCb2
+S1
+R9
+w1703954611
+8reg_file.sv
+Freg_file.sv
+!i122 137
+R16
+R10
+R11
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R15
+R5
+vtb_processor
+R7
+R8
+!i10b 1
+!s100 hVBKdDgzk9d:5ASS<2JGG0
+I[?UA=JY;SV`^[a6<bG2aQ3
+S1
+R9
+w1696853032
+8tb_processor.sv
+Ftb_processor.sv
+!i122 137
+L0 1 48
+R10
+R11
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R15
+R5
